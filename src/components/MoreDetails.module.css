@@ -1,0 +1,79 @@
+.bg {
+  background-color: #fff;
+  width: 12rem;
+  height: 4.4rem;
+  margin: 1rem;
+}
+.bg span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  word-spacing: 6px;
+  font-size: 10px;
+  font-weight: bold;
+  color: gray;
+  opacity: 50%;
+}
+.bg:nth-child(3) span {
+  word-spacing: 6px;
+}
+.bg:nth-child(1) span {
+  word-spacing: 2.3rem;
+}
+
+h4 {
+  margin-left: 1rem;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image {
+  background-color: rgb(53, 162, 235);
+  height: 25px;
+  width: 25px;
+  border-radius: 8px;
+}
+
+.range {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading {
+  height: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.percent {
+  height: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.percent h3 {
+  margin-right: 0.5rem;
+}
+.percent p {
+  color: gray;
+}
+.range input::-moz-range-progress {
+  background: rgb(53, 162, 235);
+  height: 6px;
+  border-radius: 20%;
+}
+.hr {
+  width: 50%;
+  height: 3px;
+  color: rgb(53, 162, 235);
+  background-color: rgb(53, 162, 235);
+  border-radius: 25%;
+  margin-left: 0.5rem;
+}

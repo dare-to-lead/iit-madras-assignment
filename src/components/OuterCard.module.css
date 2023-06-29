@@ -1,0 +1,37 @@
+.bg {
+  background-color: #e4f1ff;
+  width: 66%;
+  height: 98%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 2;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.img {
+  height: 40px;
+  width: 40px;
+}
+
+.profile {
+  display: flex;
+  margin-right: 3rem;
+  align-items: center;
+}
+
+.profile img {
+  margin-left: 2rem;
+}
+
+.profile p {
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
