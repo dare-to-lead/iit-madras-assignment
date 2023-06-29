@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26096f5e.css",
+    "main.js": "/static/js/main.069c705a.js",
+    "static/js/787.c42d5677.chunk.js": "/static/js/787.c42d5677.chunk.js",
+    "static/media/profilepic.png": "/static/media/profilepic.ce59d886a847b917a3f1.png",
+    "index.html": "/index.html",
+    "static/media/thunderstorm_white_24dp.svg": "/static/media/thunderstorm_white_24dp.a4449e8e66182a7bed63e2a626729e36.svg",
+    "static/media/air_white_24dp.svg": "/static/media/air_white_24dp.1ab7b238f717d71bd1ea7d8da013b31c.svg",
+    "static/media/water_drop_white_24dp.svg": "/static/media/water_drop_white_24dp.b84510e64d7ade5f3e11b61ed3eae415.svg",
+    "static/media/wb_sunny_white_24dp.svg": "/static/media/wb_sunny_white_24dp.083d0cc2a306e182e58f32e22786700a.svg",
+    "static/media/speed_white_24dp.svg": "/static/media/speed_white_24dp.62f80404582bb15d568536dbbfbb2700.svg",
+    "static/media/toggle_off_white_24dp.svg": "/static/media/toggle_off_white_24dp.da036177e4cc23d3a8b396ca6c82d654.svg",
+    "static/media/thermostat_white_24dp.svg": "/static/media/thermostat_white_24dp.4fa9a3928dbd725c18413b323a24dbd1.svg",
+    "static/media/looks_white_24dp.svg": "/static/media/looks_white_24dp.8e304babca93baa366c984ea8ed7e9f3.svg",
+    "static/media/more_horiz_white_24dp.svg": "/static/media/more_horiz_white_24dp.7731cce7b0e4e05980259947bfb53df1.svg",
+    "static/media/add_box_white_24dp.svg": "/static/media/add_box_white_24dp.234a47f1d5941e2beef1dd0b484c531a.svg",
+    "static/media/send_white_24dp.svg": "/static/media/send_white_24dp.0ca86cc6c2c20d8d2998ab9a50e206f5.svg",
+    "main.26096f5e.css.map": "/static/css/main.26096f5e.css.map",
+    "main.069c705a.js.map": "/static/js/main.069c705a.js.map",
+    "787.c42d5677.chunk.js.map": "/static/js/787.c42d5677.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26096f5e.css",
+    "static/js/main.069c705a.js"
+  ]
+}
