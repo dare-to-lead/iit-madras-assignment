@@ -21,12 +21,12 @@
 .container h1 {
   font-size: 4rem;
   color: #fff;
-  margin-left: 3rem;
-  margin-right: 3rem;
+  margin-left: 2rem;
+  margin-right: 2rem;
   /* margin-top: 16rem; */
 }
 .container span {
-  font-size: 2rem;
+  font-size: 1.4rem;
   color: #fff;
   opacity: 60%;
   /* margin-top: 12rem; */
