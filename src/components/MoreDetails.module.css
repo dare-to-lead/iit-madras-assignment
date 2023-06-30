@@ -15,12 +15,11 @@
   opacity: 50%;
 }
 .bg:nth-child(3) span {
-  word-spacing: 4px;
+  word-spacing: 2px;
 }
 .bg:nth-child(1) span {
-  word-spacing: 2rem;
+  word-spacing: 1rem;
 }
-
 h3 {
   margin-left: 1rem;
 }
