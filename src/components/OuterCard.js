@@ -10,7 +10,7 @@ const OuterCard = () => {
     <Card className={classes.bg}>
       <div className={classes.content}>
         <div>
-          <h2>Welcome back Isabella!</h2>
+          <h3>Welcome back Isabella!</h3>
           <p>Check out today's weather information</p>
         </div>
         <div className={classes.profile}>
