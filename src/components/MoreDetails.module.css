@@ -13,6 +13,7 @@
   font-weight: bold;
   color: gray;
   opacity: 50%;
+  padding-bottom: 3px;
 }
 .bg:nth-child(3) span {
   word-spacing: 2px;
