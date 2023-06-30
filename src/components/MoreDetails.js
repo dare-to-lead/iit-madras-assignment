@@ -56,7 +56,7 @@ const MoreDetails = () => {
             <img className={classes.image} src={rain} alt="" />
           </div>
           <div className={classes.percent}>
-            <h3>1.4CM</h3>
+            <h5>1.4CM</h5>
           </div>
 
           <span>0 10 20 30 40 50 60 70 80 90</span>
@@ -82,7 +82,7 @@ const MoreDetails = () => {
           </div>
 
           <div className={classes.percent}>
-            <h3>4</h3>
+            <h5>4</h5>
             <p>medium</p>
           </div>
 
@@ -106,7 +106,7 @@ const MoreDetails = () => {
             <img className={classes.image} src={thermostat} alt="" />
           </div>
           <div className={classes.percent}>
-            <h3>30</h3>
+            <h5>30</h5>
           </div>
 
           <div className={classes.range}>
@@ -119,7 +119,7 @@ const MoreDetails = () => {
             <img className={classes.image} src={looks} alt="" />
           </div>
           <div className={classes.percent}>
-            <h3>42%</h3>
+            <h5>42%</h5>
           </div>
 
           <div className={classes.range}>
