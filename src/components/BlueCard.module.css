@@ -69,6 +69,7 @@
 .city {
   color: #fff;
   margin: 1.5rem 1rem;
+  font-size:0.6rem;
 }
 
 .city p:nth-child(1) span {
