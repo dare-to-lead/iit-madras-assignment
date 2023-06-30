@@ -37,6 +37,7 @@
   color: #fff;
   margin-left: 2rem;
   font-size: 1.3rem;
+  margin-top:1rem;
 }
 
 .subheading img {
@@ -60,7 +61,7 @@
 .top {
   display: flex;
   align-items: center;
-  width: 10rem;
+  width: 11rem;
   justify-content: space-between;
   margin-top: 1rem;
   color: #fff;
