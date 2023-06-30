@@ -42,7 +42,7 @@ const MoreDetails = () => {
                 backgroundColor: "rgb(53, 162, 235)",
                 height: "50px",
                 width: "60px",
-                marginTop: "14px",
+                marginTop: "18px",
                 borderRadius: "10px",
               }}
               src={speed}
