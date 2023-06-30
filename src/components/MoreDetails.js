@@ -12,7 +12,7 @@ import speed from "../assets/speed_white_24dp.svg";
 const MoreDetails = () => {
   return (
     <>
-      <h4>More deatails of today's weather</h4>
+      <h3>More deatails of today's weather</h3>
       <div className={classes.container}>
         <Card className={classes.bg}>
           <div className={classes.heading}>
