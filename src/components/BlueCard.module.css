@@ -72,13 +72,13 @@
 }
 
 .city p:nth-child(1) span {
-  margin-left: 3rem;
+  margin-left: 2rem;
 }
 .city p:nth-child(2) {
   opacity: 70%;
 }
 .city p:nth-child(2) span {
-  margin-left: 5rem;
+  margin-left: 3rem;
 }
 
 .city img {
