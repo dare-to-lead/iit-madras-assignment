@@ -16,8 +16,8 @@
 }
 
 .img {
-  height: 40px;
-  width: 40px;
+  height: 35px;
+  width: 35px;
 }
 
 .profile {
@@ -31,7 +31,7 @@
 }
 
 .profile p {
-  font-size: 2rem;
+  font-size: 1.6rem;
   font-weight: bold;
   letter-spacing: 1px;
 }
