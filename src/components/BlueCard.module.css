@@ -60,7 +60,7 @@
 .top {
   display: flex;
   align-items: center;
-  width: 8rem;
+  width: 10rem;
   justify-content: space-between;
   margin-top: 1rem;
   color: #fff;
@@ -73,7 +73,7 @@
 }
 
 .city p:nth-child(1) span {
-  margin-left: 1rem;
+  margin-left: 1.2rem;
 }
 .city p:nth-child(2) {
   opacity: 70%;
