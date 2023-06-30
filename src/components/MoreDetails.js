@@ -20,7 +20,7 @@ const MoreDetails = () => {
             <img className={classes.image} src={humid} alt="" />
           </div>
           <div className={classes.percent}>
-            <h3>82%</h3>
+            <h5>82%</h3>
             <p>bad</p>
           </div>
           <span>good normal bad</span>
