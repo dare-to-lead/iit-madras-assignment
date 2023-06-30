@@ -69,8 +69,8 @@ h4 {
 }
 .range input::-moz-range-progress {
   background: rgb(53, 162, 235);
-  height: 6px;
-  border-radius: 20%;
+  height: 5px;
+  border-radius: 25%;
 }
 .hr {
   width: 50%;
