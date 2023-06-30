@@ -106,7 +106,7 @@ const MoreDetails = () => {
             <img className={classes.image} src={thermostat} alt="" />
           </div>
           <div className={classes.percent}>
-            <h5>30</h5>
+            <h5>30&#176;</h5>
           </div>
 
           <div className={classes.range}>
